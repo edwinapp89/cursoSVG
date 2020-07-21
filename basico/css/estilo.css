@@ -18,6 +18,9 @@ rect{
 	width: 200px;
 	height: 80px;
 	fill: hotpink;
+	stroke: red;
+	stroke-width:5px;
+	stroke-linejoin: bevel;
 }
 .rect3{
 	x:200px;
@@ -25,6 +28,7 @@ rect{
 	width:200px;
 	height: 80px;
 	fill: orange;
+
 }
 /* cx es el centro del 
 circulo*/
@@ -33,7 +37,10 @@ circle{
 	cy:200px;
 	r:80px;
 	fill: #742748;
-}
+	stroke: orange;
+	stroke-width:5px;
+
+}	
 
 ellipse{
 	cx: 300px;
