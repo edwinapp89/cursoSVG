@@ -49,3 +49,45 @@ ellipse{
 	ry:50px;
 	fill: #503214;
 }
+
+/*---------------------------------*/
+
+svg .ejemplo2{
+	border: 1px solid ;
+	width: 600px;
+	height: 400px;
+}
+
+ .ejemplo2  .linea{
+
+	stroke: #ed625e;
+	stroke-width:40px;
+	stroke-linecap:round; 
+}
+
+.linea2{
+
+	stroke: #fff;
+
+}
+
+.linea3{
+	stroke: blue;
+	stroke-width:2px;
+}
+
+.linea4{
+	fill: none;
+	stroke: #742744;
+	stroke-width:4px;
+}
+
+.linea5{
+	
+	stroke: blue;
+	stroke-width:4px;
+}
+
+.linea6{
+	fill: #742748;
+}
