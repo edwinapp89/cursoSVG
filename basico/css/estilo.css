@@ -1,0 +1,44 @@
+svg{
+	border: 1px solid;
+	width: 600px;
+	height: 400px;
+}
+
+rect{
+	x:100px;
+	y:50px;
+	width: 200px;
+	height: 80px;
+	fill: #c4c4c4;
+}
+
+.rect2{
+	x:100px;
+	y:160px;
+	width: 200px;
+	height: 80px;
+	fill: hotpink;
+}
+.rect3{
+	x:200px;
+	y:70px;
+	width:200px;
+	height: 80px;
+	fill: orange;
+}
+/* cx es el centro del 
+circulo*/
+circle{
+	cx: 500px;
+	cy:200px;
+	r:80px;
+	fill: #742748;
+}
+
+ellipse{
+	cx: 300px;
+	cy:300px;
+	rx:100px;
+	ry:50px;
+	fill: #503214;
+}
