@@ -1,0 +1,27 @@
+svg{
+	width: 850px;
+	height: 200px;
+	background-color: #B4D3BF;
+	
+}
+
+text{
+	
+	fill:#ed525e;
+	font-family: 'impact', 'sans-serif';
+	font-size: 100px;
+	
+	/* dominant-baseline:middle; */
+
+	
+
+}
+line{
+	stroke: #fff;
+}
+tspan{
+	font-size: 20px;
+}
+.texto2{
+	font-size: 30px;
+}

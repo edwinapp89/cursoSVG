@@ -1,0 +1,15 @@
+svg{
+		width: 600px;
+		height: 400px;
+	}
+svg path{
+	fill:red;
+}
+
+.linea{
+	stroke: #343434;
+}
+.cuadratica{
+	stroke: #423455;
+	fill:none;
+}

@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="UTF-8">
+	<link rel="stylesheet" type="text/css" href="css/estilo.css">
+	<title>Document</title>
+</head>
+<body>
+	<svg viewbox='0 0 850 200'>
+		<!--en SVG no hay salto de linea-->
+		<defs>
+			<path id='testpath' d='M50,160 Q425,80 800,160'/>
+			
+		</defs>
+
+		<text x='50%' y='50%' dx='-40' dy='.3em' text-anchor='middle'>
+			<textpath xlink:href='#testpath' >
+				GRAN CIRCO
+			</textpath>
+			
+			<tspan dx='-20' dy='-30'>
+				
+					fuente
+				
+				
+			</tspan>
+		</text>
+		<defs>
+				<path id='test'  d='M160,80 Q300,-140 470,1100' />
+		</defs>
+		<text >
+			
+			<textpath xlink:href='#test' class='texto2' >
+				
+			MUNDIAL
+			</textpath>
+		</text>
+
+		<line x1='0' y1='100' x2='850' y2='100'/>
+
+
+		
+	</svg>
+</body>
+</html>
