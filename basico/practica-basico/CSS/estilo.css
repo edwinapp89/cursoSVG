@@ -1,0 +1,163 @@
+svg{
+	width: 800px;
+	height: 900px;
+	border: 1px solid;
+	background-color:orange;
+}
+
+circle{
+	cx:400px;
+	cy:300px;
+	r:200px;
+	fill: #E5F5A3;
+	stroke:#000;
+	stroke-width:2px;
+
+}
+.costillas{
+	fill: #E5F5A3;
+	stroke:#000;
+	stroke-width:2px;
+}
+
+.cola{
+	stroke:#000;
+	stroke-width:20px;
+	fill: none;
+
+}
+
+.cintura{
+	fill:#E5F5A3;
+	stroke:none;
+
+}
+.pata{
+	fill: #000;
+	
+}
+.cresta{
+	cx:400px;
+	cy:220px;
+	rx:70px;
+	ry:50px;
+	fill: #343434;
+
+}
+.mejilla{
+	cx:400px;
+	cy:300px;
+	rx:170px;
+	ry:100px;
+
+	fill: #343434;
+} 
+.boca{
+	cx:400px;
+	cy:390px;
+	r:80px;
+	fill:#343434;
+	stroke: #000;
+}
+.oreja{
+	fill: #000;
+	stroke: #742744;
+	stroke-width:4px;
+}
+
+.orejain{
+	fill: #EE294C;
+	stroke: #742744;
+	stroke-width:2px;
+}
+
+.nariz{
+	fill: #000;
+	
+	stroke-width:4px;
+}
+.curva{
+	fill: none;
+	stroke:#000;
+	stroke-width:2px;
+}
+.ojo{
+	fill: #fff;
+}
+
+ .ojo1{
+	cx:326px;
+	cy:300px;
+	r:24px;
+	fill: blue;
+}
+
+.centro1{
+	cx:326px;
+	cy:300px;
+	rx:8px;
+	ry:20px;
+
+	fill: #000;
+} 
+.ojo2{
+	fill: #fff;
+	
+	
+}
+
+.ojo3{
+	cx:480px;
+	cy:300px;
+	r:24px;
+	fill: blue;
+}
+
+.centro2{
+	cx:480px;
+	cy:300px;
+	rx:8px;
+	ry:20px;
+
+	fill: #000;
+} 
+
+.linea{
+	stroke: #fff;
+}
+
+ .pata2{
+	cx:240px;
+	cy:-70px;
+	r:30px;
+	fill: #000;
+	
+
+}
+
+.pata3{
+	cx:540px;
+	cy:-70px;
+	r:30px;
+	fill: #000;
+	
+
+}
+
+.pata4{
+	cx:240px;
+	cy:600px;
+	r:40px;
+	fill: #000;
+	
+
+}
+
+.pata5{
+	cx:570px;
+	cy:600px;
+	r:40px;
+	fill: #000;
+	
+
+}
